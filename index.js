@@ -1,1 +1,3 @@
-console.log("Hello World");
+function func(){
+	console.log("Hello Git");
+}
